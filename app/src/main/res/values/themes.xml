@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Readabook" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorPrimaryVariant">@color/teal_dark</item>
+        <item name="colorSecondary">@color/amber</item>
+    </style>
+</resources>
