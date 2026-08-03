@@ -28,19 +28,19 @@ COMPONENTS: RecyclerView, CardView, DialogFragment.
 
 ## Screenshots
 
-Home Screen
+### Home Screen
 
 ![](Screenshots/01-%20Home%20Screen%20-%20Saved%20Books.jpeg)
 
-Add New Book Screen
+### Add New Book Screen
 
 ![](Screenshots/02-%20Add%20New%20Book%20Screen.jpeg)
 
-Book Details & Status Update
+### Book Details & Status Update
 
 ![](Screenshots/03-%20Status%20and%20Rating%20Update%20Screen.jpeg)
 
-Delete Confirmation Dialog
+### Delete Confirmation Dialog
 
 ![](Screenshots/04-%20Remove%20Book%20Confirmation%20Dialog.jpeg)
 
